@@ -22,7 +22,7 @@ Down Arrow makes to move the truck to backward side.
 <br><br>
 
 ![.](img/upperView.png)
-I used a prototype file which has prepared some of assets. I have added C# codes on Visual Studio and made some settings on Unity.
+I used a prototype file which has some of prepared assets. I have added C# codes on Visual Studio and made some settings on Unity.
 
 The prototype file link: [Prototype 1 - Starter Files](https://drive.google.com/file/d/1k2DW6zWgWBsI0-d7XBciFtMHIBk31VpF/view?usp=sharing)
 
